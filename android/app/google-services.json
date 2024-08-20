@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292022621676",
+    "project_id": "kwik-mat-nfpzbv",
+    "storage_bucket": "kwik-mat-nfpzbv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292022621676:android:6420bdc84731b1b82d1cc9",
+        "android_client_info": {
+          "package_name": "com.mycompany.kwikmat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA19CDGcmTZBLbQHrQ-Mv_fl9JbfZpSNDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
